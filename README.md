@@ -1,2 +1,2 @@
-# Aruba Business API
-Few scripts to consume Aruba APIs
+# ISPconfig
+Few scripts to keep ISPCONFIG clean
