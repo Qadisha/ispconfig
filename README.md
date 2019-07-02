@@ -1,2 +1,2 @@
 # ISPconfig
-Few scripts to keep ISPCONFIG clean
+Few scripts to keep ISPCONFIG clean for fun and profit
